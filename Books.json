@@ -1,0 +1,35 @@
+{
+    "AllBooks":[
+ 
+     {
+     "Book Type":"Enterainment ",
+      "BookTitele":"Life",
+      "BorrowedBooks":"false",
+         "price":40,
+        "user":"Nora"
+  },
+     {
+      "Book Type":"Historical ",
+      "BookTitele":"World",
+      "BorrowedBooks":"true",
+        "price":30,
+        "user":"Lila"
+  },
+     {
+     "Book Type":"Religious ",
+      "BookTitele":"Interpretation",
+      "BorrowedBooks":"false",
+          "price":50,
+        "user":"Aisha"
+  },
+     {
+     "Book Type":"Novels ",
+      "BookTitele":"Flowers",
+      "BorrowedBooks":"true",
+          "price":20,
+        "user":"Amed"
+  }]
+ 
+ 
+ }
+ 
